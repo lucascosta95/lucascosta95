@@ -24,6 +24,7 @@ Olá! Eu sou um entusiasta da programação e apaixonado por tecnologia. Estou c
 ![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=Spring&logoColor=30A3DC)
 
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=Java&logoColor=30A3DC)
+![Kotlin](https://img.shields.io/badge/kotlin-000?style=for-the-badge&logo=Kotlin&logoColor=30A3DC)
 
 #
 
